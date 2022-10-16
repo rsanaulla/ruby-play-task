@@ -1,0 +1,146 @@
+Base: 96.0
+Tolerance: 4.0
+Number of initial elements: 101
+
+Initally generated array
+Element №: 0 = 94.873
+Element №: 1 = 95.749
+Element №: 2 = 95.375
+Element №: 3 = 99.493
+Element №: 4 = 99.748
+Element №: 5 = 93.733
+Element №: 6 = 99.262
+Element №: 7 = 99.707
+Element №: 8 = 97.952
+Element №: 9 = 92.845
+Element №: 10 = 99.243
+Element №: 11 = 97.026
+Element №: 12 = 95.161
+Element №: 13 = 94.927
+Element №: 14 = 97.436
+Element №: 15 = 94.778
+Element №: 16 = 92.184
+Element №: 17 = 93.573
+Element №: 18 = 97.641
+Element №: 19 = 96.356
+Element №: 20 = 97.215
+Element №: 21 = 95.477
+Element №: 22 = 99.277
+Element №: 23 = 92.253
+Element №: 24 = 98.437
+Element №: 25 = 98.983
+Element №: 26 = 96.925
+Element №: 27 = 98.665
+Element №: 28 = 97.982
+Element №: 29 = 93.624
+Element №: 30 = 99.723
+Element №: 31 = 96.686
+Element №: 32 = 93.331
+Element №: 33 = 92.931
+Element №: 34 = 96.41
+Element №: 35 = 96.958
+Element №: 36 = 97.605
+Element №: 37 = 95.891
+Element №: 38 = 92.498
+Element №: 39 = 92.321
+Element №: 40 = 92.681
+Element №: 41 = 96.589
+Element №: 42 = 96.436
+Element №: 43 = 92.186
+Element №: 44 = 94.429
+Element №: 45 = 97.518
+Element №: 46 = 92.912
+Element №: 47 = 92.393
+Element №: 48 = 92.125
+Element №: 49 = 95.407
+Element №: 50 = 99.731
+Element №: 51 = 92.689
+Element №: 52 = 96.472
+Element №: 53 = 95.543
+Element №: 54 = 92.713
+Element №: 55 = 93.355
+Element №: 56 = 93.407
+Element №: 57 = 94.169
+Element №: 58 = 96.997
+Element №: 59 = 97.835
+Element №: 60 = 96.464
+Element №: 61 = 98.391
+Element №: 62 = 99.788
+Element №: 63 = 98.24
+Element №: 64 = 99.964
+Element №: 65 = 98.56
+Element №: 66 = 92.397
+Element №: 67 = 92.554
+Element №: 68 = 96.965
+Element №: 69 = 95.754
+Element №: 70 = 98.018
+Element №: 71 = 96.068
+Element №: 72 = 95.437
+Element №: 73 = 95.176
+Element №: 74 = 98.429
+Element №: 75 = 95.609
+Element №: 76 = 94.502
+Element №: 77 = 97.573
+Element №: 78 = 97.844
+Element №: 79 = 92.985
+Element №: 80 = 98.244
+Element №: 81 = 98.204
+Element №: 82 = 93.776
+Element №: 83 = 96.672
+Element №: 84 = 94.904
+Element №: 85 = 96.79
+Element №: 86 = 96.27
+Element №: 87 = 92.427
+Element №: 88 = 95.386
+Element №: 89 = 97.88
+Element №: 90 = 97.508
+Element №: 91 = 99.301
+Element №: 92 = 98.118
+Element №: 93 = 93.582
+Element №: 94 = 98.623
+Element №: 95 = 97.397
+Element №: 96 = 92.665
+Element №: 97 = 99.917
+Element №: 98 = 99.412
+Element №: 99 = 95.522
+Element №: 100 = 99.93299999999999
+Mathematical expected value: 96.129
+Dispersion: 5.83
+Standard deviation: 2.414
+
+Filtred array
+Element №: 0 = 95.749
+Element №: 1 = 95.375
+Element №: 2 = 96.356
+Element №: 3 = 95.477
+Element №: 4 = 96.686
+Element №: 5 = 96.41
+Element №: 6 = 95.891
+Element №: 7 = 96.589
+Element №: 8 = 96.436
+Element №: 9 = 95.407
+Element №: 10 = 96.472
+Element №: 11 = 95.543
+Element №: 12 = 96.464
+Element №: 13 = 95.754
+Element №: 14 = 96.068
+Element №: 15 = 95.437
+Element №: 16 = 95.609
+Element №: 17 = 96.672
+Element №: 18 = 96.79
+Element №: 19 = 96.27
+Element №: 20 = 95.386
+Element №: 21 = 95.522
+Mathematical expected value: 95.056
+Dispersion: 91.572
+Standard deviation: 9.569
+
+Filtred values in entire range: 21.782%
+Limits for level 50 -> (lower: 96.291, upper: 95.966)
+Limits for level 70 -> (lower: 96.379, upper: 95.878)
+Limits for level 80 -> (lower: 96.438, upper: 95.819)
+Limits for level 95 -> (lower: 96.605, upper: 95.652)
+Hit rate for confidence level 50: 2
+Hit rate for confidence level 70: 2
+Hit rate for confidence level 80: 2
+Hit rate for confidence level 95: 95
