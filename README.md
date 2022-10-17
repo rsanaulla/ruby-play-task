@@ -16,4 +16,3 @@ There will be formulas here
 
 
 # Future improvement:
-
