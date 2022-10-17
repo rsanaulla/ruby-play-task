@@ -13,3 +13,7 @@ There will be formulas here
 
 6)Standart error ![image](https://user-images.githubusercontent.com/22567520/196107090-60131286-62b9-433c-b8a8-83f689d15fea.png)
 
+
+
+Future improvement
+
